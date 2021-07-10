@@ -1,0 +1,19 @@
+[25-Jun-2020 16:05:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 109
+[25-Jun-2020 16:05:14 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 137
+[25-Jun-2020 16:06:26 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 109
+[25-Jun-2020 16:06:26 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 137
+[13-Oct-2020 13:47:00 America/Fortaleza] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[13-Oct-2020 13:47:00 America/Fortaleza] PHP Warning:  Module 'SourceGuardian' already loaded in Unknown on line 0
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  Illegal string offset 'log_pedidos' in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 35
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 39
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 49
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 139
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 153
+[21-Jan-2021 07:20:35 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 181
+[29-Jan-2021 21:19:37 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 95
+[29-Jan-2021 21:19:37 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 109
+[29-Jan-2021 21:19:37 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 137
+[18-May-2021 00:54:03 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 95
+[18-May-2021 00:54:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 109
+[18-May-2021 00:54:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 137
+[21-Jun-2021 02:06:24 America/Fortaleza] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting ',' or ';' in /home2/proj7703/superhorti.com.br/appAdmin/relatorios/index.php on line 110
